@@ -44,14 +44,14 @@
 				</dict>
 			</dict>
 			<key>name</key>
-			<string>string.quoted.double.untitled.k</string>
+			<string>string.quoted.double.k</string>
 			<key>patterns</key>
 			<array>
 				<dict>
 					<key>match</key>
 					<string>\\.</string>
 					<key>name</key>
-					<string>constant.character.escape.untitled.k</string>
+					<string>constant.character.escape.k</string>
 				</dict>
 			</array>
 		</dict>

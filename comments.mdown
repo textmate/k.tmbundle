@@ -4,7 +4,6 @@
 
 * Needs a comment type preference, see many of the other bundles for an example.
 * Nothing wrong with the various _foo matches in the grammar but the _ doesn't need to be escaped and you can put it outside the parens to simplify them a bit.
-* A couple of the scopes in the grammar have 'untitled' in the name still, should be removed.
 
 Language Grammar: (Note that I don't know the language, just looked at some sample code and docs.)
 
