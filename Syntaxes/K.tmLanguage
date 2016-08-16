@@ -6,10 +6,6 @@
 	<array>
 		<string>k</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>\{.*\n?</string>
-	<key>foldingStopMarker</key>
-	<string>}</string>
 	<key>keyEquivalent</key>
 	<string>^~K</string>
 	<key>name</key>
